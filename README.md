@@ -8,9 +8,9 @@ Existem duas versões do ImunifyAV:
 1. **Versão gratuita**: Apenas permite o escaneamento.
 2. **Versões pagas**: Incluem licenças para limpeza automática de malware.
 
-Este guia explica como instalar o ImunifyAV em servidores com o painel HestiaCP ou VestaCP, mas também pode ser adaptado para servidores sem painel de controle. Ele requer **PHP** e é compatível com os seguintes sistemas operacionais:
+Este guia explica como instalar o ImunifyAV em servidores com o painel HestiaCP ou myVestaCP, mas também pode ser adaptado para servidores sem painel de controle. Ele requer **PHP** e é compatível com os seguintes sistemas operacionais:
 
-## Supported operating systems
+## Sistemas Operacionais Suportados
 
 - **CentOS/RHEL** 7, 8, 9
 - **CloudLinux** OS 7, 8, 9
@@ -18,6 +18,7 @@ Este guia explica como instalar o ImunifyAV em servidores com o painel HestiaCP 
 - **Debian 9** (up to Imunify v6.11 (including)), 10 (requires buster-backports), 11 & 12 (Plesk, DirectAdmin, and stand-alone)
 - **AlmaLinux 8,9**
 - **Rocky Linux 8,9** (cPanel, Plesk, and standalone)
+  
 ## Virtualization
 
 - **OpenVZ** - works for Virtuozzo 7 with kernel 3.10.0-1160.80.1.vz7.191.4 or newer.
