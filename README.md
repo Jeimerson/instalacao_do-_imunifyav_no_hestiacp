@@ -12,12 +12,23 @@ Existem duas versões do ImunifyAV:
 
 Este guia explica como instalar o ImunifyAV em servidores com o painel HestiaCP ou VestaCP, mas também pode ser adaptado para servidores sem painel de controle. Ele requer **PHP** e é compatível com os seguintes sistemas operacionais:
 
-- **CentOS/RHEL**: 6, 7, 8
-- **CloudLinux OS**: 6, 7, 8
-- **Ubuntu**: 16.04 (LTS), 18.04, 20.04 (LTS), 22 e 24.04 (LTS)
-- **Debian**: 9 (até Imunify v6.11), 10 e 12
-- **Rocky Linux**: 8
-- **AlmaLinux**: 8, 9
+## Supported operating systems
+
+- **CentOS/RHEL** 7, 8, 9
+- **CloudLinux** OS 7, 8, 9
+- **Ubuntu 16.04** (LTS only), 18.04, 20.04 (LTS), 22.04 (cPanel, Plesk, DirectAdmin, and standalone), and 24.04
+- **Debian 9** (up to Imunify v6.11 (including)), 10 (requires buster-backports), 11 & 12 (Plesk, DirectAdmin, and stand-alone)
+- **AlmaLinux 8,9**
+- **Rocky Linux 8,9** (cPanel, Plesk, and standalone)
+## Virtualization
+
+- **OpenVZ** - works for Virtuozzo 7 with kernel 3.10.0-1160.80.1.vz7.191.4 or newer.
+
+## Hardware
+
+- **RAM: 1GB**
+- **HDD: 20GB** available disk space
+- **CPU: 64bit** version on x86_64 processors only
 
 ---
 
