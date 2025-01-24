@@ -181,3 +181,5 @@ https://dominio.com/imav
 - Para servidores sem painel, este processo também é válido, com ajustes nas configurações conforme necessário.
 
 - Se precisar de ajuda, entre em contato com o suporte do ImunifyAV ou o suporte do seu provedor.
+
+  > Para mais informações, consulte a [página oficial do ImunifyAV](https://www.imunify360.com/).
