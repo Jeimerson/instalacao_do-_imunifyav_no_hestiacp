@@ -8,8 +8,6 @@ Existem duas versões do ImunifyAV:
 1. **Versão gratuita**: Apenas permite o escaneamento.
 2. **Versões pagas**: Incluem licenças para limpeza automática de malware.
 
-> Para mais informações, consulte a [página oficial do ImunifyAV](https://www.imunify360.com/).
-
 Este guia explica como instalar o ImunifyAV em servidores com o painel HestiaCP ou VestaCP, mas também pode ser adaptado para servidores sem painel de controle. Ele requer **PHP** e é compatível com os seguintes sistemas operacionais:
 
 ## Supported operating systems
@@ -182,4 +180,4 @@ https://dominio.com/imav
 
 - Se precisar de ajuda, entre em contato com o suporte do ImunifyAV ou o suporte do seu provedor.
 
-  > Para mais informações, consulte a [página oficial do ImunifyAV](https://www.imunify360.com/).
+> Para mais informações, consulte a [página oficial do ImunifyAV](https://www.imunify360.com/).
