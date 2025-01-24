@@ -4,7 +4,7 @@
 
 O **ImunifyAV** é um dos antivírus mais reconhecidos para servidores web Linux. Ele é capaz de escanear e limpar backdoors, shells, vírus, páginas de phishing, scripts maliciosos e outros tipos de malware. Alguns painéis, como Plesk, cPanel e CyberPanel, possuem integração direta com ele, mas também é possível instalá-lo em servidores sem painel de controle ou em painéis sem compatibilidade oficial.
 
-Existem três versões do ImunifyAV:
+Existem duas versões do ImunifyAV:
 1. **Versão gratuita**: Apenas permite o escaneamento.
 2. **Versões pagas**: Incluem licenças para limpeza automática de malware.
 
