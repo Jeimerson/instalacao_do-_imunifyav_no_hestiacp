@@ -182,4 +182,4 @@ https://dominio.com/imav
 
 - Se precisar de ajuda, entre em contato com o suporte do ImunifyAV ou o suporte do seu provedor.
 
-- > Fonte [página oficial do ImunifyAV]([https://www.imunify360.com/](https://docs.imunify360.com/control_panel_integration/?_gl=1*18jvh4b*_up*MQ..*_ga*MjA1NjIwNjg5Ni4xNzM3Njc4MTg2*_ga_KRP813FVT7*MTczNzY3ODE4NS4xLjAuMTczNzY3ODE4NS4wLjAuMA..*_ga_8LBSSX7VQX*MTczNzY3ODE4NS4xLjAuMTczNzY3ODE4NS4wLjAuMA..)).
+> Fonte [página oficial do ImunifyAV]([https://www.imunify360.com/](https://docs.imunify360.com/control_panel_integration/?_gl=1*18jvh4b*_up*MQ..*_ga*MjA1NjIwNjg5Ni4xNzM3Njc4MTg2*_ga_KRP813FVT7*MTczNzY3ODE4NS4xLjAuMTczNzY3ODE4NS4wLjAuMA..*_ga_8LBSSX7VQX*MTczNzY3ODE4NS4xLjAuMTczNzY3ODE4NS4wLjAuMA..)).
