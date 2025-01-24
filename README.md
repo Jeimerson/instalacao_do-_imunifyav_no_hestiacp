@@ -169,6 +169,4 @@ https://dominio.com/imav
 - Caso você adicione novos usuários no painel HestiaCP, eles serão automaticamente refletidos na interface web do ImunifyAV.
 - Para servidores sem painel, este processo também é válido, com ajustes nas configurações conforme necessário.
 
-Se precisar de ajuda, entre em contato com o suporte do ImunifyAV ou o suporte do seu servidor.
-
-Esperamos que este guia tenha sido útil! :)
+Se precisar de ajuda, entre em contato com o suporte do ImunifyAV ou o suporte do seu provedor.
