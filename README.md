@@ -157,9 +157,9 @@ bash imav-deploy.sh
 ```
 
 ### Passo 6: Acessar o painel do ImunifyAV
-Após a instalação, você poderá acessar o painel através da URL configurada em `ui_path`, por exemplo:
+Após a instalação, você poderá acessar o painel através da URL configurada em `ui_path`, por exemplo Usuário: root, senha do root:
 ```
-http://dominio.com/imav
+https://dominio.com/imav
 ```
 
 ---
