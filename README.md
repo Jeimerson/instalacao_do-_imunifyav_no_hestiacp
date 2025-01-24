@@ -70,7 +70,7 @@ Adicione o seguinte conteúdo, substituindo os valores conforme necessário:
       "name": "root",
       "unix_user": "root",
       "locale_code": "PT_br",
-      "email": "admin@exemplo.com",
+      "email": "admin@dominio.com",
       "is_main": true
     }
   ],
@@ -89,13 +89,13 @@ Adicione a lista de domínios configurados no servidor:
 ```json
 {
   "data": {
-    "exemplo.com": {
+    "dominio.com": {
       "document_root": "/home/usuario/web/dominio.com",
       "is_main": true,
       "owner": "usuario"
     },
-    "subdominio.exemplo.com": {
-      "document_root": "/home/usuario/web/subdominio.exemplo.com/",
+    "subdominio.dominio.com": {
+      "document_root": "/home/usuario/web/subdominio.dominio.com/",
       "is_main": false,
       "owner": "usuario"
     }
@@ -119,24 +119,24 @@ Adicione os usuários relacionados aos domínios:
       "id": 1001,
       "username": "usuario",
       "owner": "usuario",
-      "domain": "exemplo.com",
+      "domain": "dominio.com",
       "package": {
         "name": "package",
         "owner": "usuario"
       },
-      "email": "email@exemplo.com",
+      "email": "email@dominio.com",
       "locale_code": "PT_br"
     },
     {
       "id": 1001,
       "username": "usuario",
       "owner": "usuario",
-      "domain": "subdominio.exemplo.com",
+      "domain": "subdominio.dominio.com",
       "package": {
         "name": "package",
         "owner": "usuario"
       },
-      "email": "email@exemplo.com",
+      "email": "email@dominio.com",
       "locale_code": "PT_br"
     }
   ],
@@ -159,7 +159,7 @@ bash imav-deploy.sh
 ### Passo 6: Acessar o painel do ImunifyAV
 Após a instalação, você poderá acessar o painel através da URL configurada em `ui_path`, por exemplo:
 ```
-http://exemplo.com/imav
+http://dominio.com/imav
 ```
 
 ---
@@ -169,4 +169,6 @@ http://exemplo.com/imav
 - Caso você adicione novos usuários no painel HestiaCP, eles serão automaticamente refletidos na interface web do ImunifyAV.
 - Para servidores sem painel, este processo também é válido, com ajustes nas configurações conforme necessário.
 
-Se precisar de ajuda, entre em contato com o suporte do ImunifyAV ou o suporte do seu provedor.
+Se precisar de ajuda, entre em contato com o suporte do ImunifyAV ou o suporte do seu servidor.
+
+Esperamos que este guia tenha sido útil! :)
