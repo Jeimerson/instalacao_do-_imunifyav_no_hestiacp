@@ -23,7 +23,7 @@ Este guia explica como instalar o ImunifyAV em servidores com o painel HestiaCP 
 
 - **OpenVZ** - works for Virtuozzo 7 with kernel 3.10.0-1160.80.1.vz7.191.4 or newer.
 
-## Hardware
+## Hardware Minímo
 
 - **RAM: 1GB**
 - **HDD: 20GB** available disk space
